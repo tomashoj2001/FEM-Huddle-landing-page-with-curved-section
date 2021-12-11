@@ -349,7 +349,7 @@ body{
 
     /* RESPONSIVE DESIGN */
 
-@media (max-width:376px) {
+@media (max-width:430px) {
     :root{
         --wave-top: url(images/bg-section-top-mobile-1.svg);
         --wave-bottom: url(images/bg-section-bottom-mobile-1.svg);
