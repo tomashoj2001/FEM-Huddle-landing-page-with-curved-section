@@ -17,7 +17,7 @@
     --body-font: 'Open Sans', sans-serif;
     --wave-top: url(images/bg-section-top-desktop-1.svg);
     --wave-bottom: url(images/bg-section-bottom-desktop-1.svg);
-    --shadow: 0 0 1px hsla(192, 100%, 9%, .8);
+    --shadow: 2px 2px 8px 1px rgba(0,0,0,0.55);
 }
 
 body{
